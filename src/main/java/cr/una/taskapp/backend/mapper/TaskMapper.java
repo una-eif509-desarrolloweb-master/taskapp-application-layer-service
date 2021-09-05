@@ -8,7 +8,7 @@ import org.mapstruct.factory.Mappers;
 import java.util.List;
 
 /**
- * Mapper for Task
+ * DTO Mapper for Task
  *
  * @author Maikol Guzman <maikol@guzmanalan.com>
  * @create 9/3/21

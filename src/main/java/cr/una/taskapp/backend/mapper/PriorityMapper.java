@@ -11,7 +11,7 @@ import org.mapstruct.factory.Mappers;
 import java.util.List;
 
 /**
- * Mapper for Priority
+ * DTO Mapper for Priority
  *
  * @author Maikol Guzman <maikol@guzmanalan.com>
  * @create 9/3/21
