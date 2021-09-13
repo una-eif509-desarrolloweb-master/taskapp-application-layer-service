@@ -13,7 +13,7 @@ The Business Layer is at the same level as the Service Layer.
 
 The service layer allows us to isolate the presentation layer from the business layer, in the same way the business and data access layer separates the persist data.
 
-![Architecture_MultiTier-Task App-Service Layer](Architecture_MultiTier-Task App-Service Layer.png)
+<img src="Architecture_MultiTier_TaskApp_Service_Layer.png" alt="Architecture_MultiTier-Task App-Service Layer" style="zoom:45%;" />
 
 ## Data Transfer Objects (DTO’s)
 
